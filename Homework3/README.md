@@ -10,3 +10,7 @@ The dataset gives us a brief understanding of the following:
 * Price level of overall dataset which includes the data of three cities collected in one CSV file
 * Rating of the three cities
 
+# Data Volume
+* Delhi == 440
+* Noida == 120
+* Gurgaon == 120
